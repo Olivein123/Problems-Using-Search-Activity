@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathfindingVisualizer", "PathfindingVisualizer\PathfindingVisualizer.csproj", "{88712E0A-924C-4D8F-A0E8-D38CA37D2659}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathfindingVisualizer_Potolin", "PathfindingVisualizer\PathfindingVisualizer_Potolin.csproj", "{88712E0A-924C-4D8F-A0E8-D38CA37D2659}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35DEF81C-8BAA-411A-92C1-F042FA192910}
 	EndGlobalSection
 EndGlobal
